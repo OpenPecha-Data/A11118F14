@@ -1,0 +1,15 @@
+id: A11118F14
+title: 'MSV 6,02: Vinītakā'
+type: translation
+pechas:
+- I1B039F48
+- I5F8FD549
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:13:56.266044
+  last_modified_at: 2023-02-10 00:13:56.266056
+alignment_to_base:
+  I1B039F48/C86F: CF9B
+  I5F8FD549/AA2E: CF9B
